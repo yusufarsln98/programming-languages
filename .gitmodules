@@ -1,6 +1,6 @@
-[submodule "expert-system-and-decision-tree-projects"]
-	path = expert-system-and-decision-tree-projects
-	url = https://github.com/yusufarsln98/expert-system-and-decision-tree-projects
+[submodule "expert-system-and-decision-tree"]
+	path = expert-system-and-decision-tree
+	url = https://github.com/yusufarsln98/expert-system-and-decision-tree
 [submodule "lexer-for-gpp-with-flex-and-lisp"]
 	path = lexer-for-gpp-with-flex-and-lisp
 	url = https://github.com/yusufarsln98/lexer-for-gpp-with-flex-and-lisp
